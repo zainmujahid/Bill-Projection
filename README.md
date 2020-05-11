@@ -9,3 +9,6 @@ Linear Regression models are being used for completing the both tasks. Algorithm
 
 ## Steps to Run the Code:
 Each sub-directory contains the README file explaining the steps to run the code successfully.
+
+## Requirements:
+MATLAB R2017a (9.3) (64-bit) or higher version should be installed in your machine to run this project successfully.
